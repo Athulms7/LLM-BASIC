@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-pinecone
+langchain-groq
+pinecone-client
+python-dotenv
+pypdf
+sentence-transformers
+langchain-huggingface
+python-multipart
+celery
+redis 
